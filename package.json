@@ -1,0 +1,15 @@
+{
+  "name": "numerology-kata.js",
+  "version": "1.0.0",
+  "description": "Numerology Kata in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha numerology.js"
+  },
+  "author": "Nacho García",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
